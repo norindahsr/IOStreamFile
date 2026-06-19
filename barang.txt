@@ -1,0 +1,5 @@
+Pensil;3000.0;20
+Buku;12000.0;15
+Penghapus;2000.0;10
+Air Mineral;5000.0;25
+Roti;8000.0;12
