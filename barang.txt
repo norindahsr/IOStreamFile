@@ -1,5 +1,5 @@
-Pensil;3000.0;20
-Buku;12000.0;15
-Penghapus;2000.0;10
-Air Mineral;5000.0;25
-Roti;8000.0;12
+Laptop;1.2E7;5
+Mouse;150000.0;20
+Keyboard;350000.0;15
+Monitor;2500000.0;8
+Headset;500000.0;12
