@@ -1,5 +1,8 @@
 package tugas;
 
+//Nama: Nor Indah Sari
+//NPM : 2410010427
+
 public class MainTugas {
 
     public static void main(String[] args) {
