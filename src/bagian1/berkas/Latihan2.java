@@ -9,11 +9,11 @@ public class Latihan2 {
         try {
             if (berkas.createNewFile()) {
                 System.out.println("Berkas baru dibuat.");
-        } else {
+            } else {
                 System.out.println("Berkas sudah ada sebelumnya.");
-        }
-    } catch (IOException e) {
-        System.out.println("Terjadi kesalahan: " + e.getMessage());
+            }
+        } catch (IOException e) {
+            System.out.println("Terjadi kesalahan: " + e.getMessage());
         }
     }
 }
